@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/chat-with-pdfs.git
+git clone https://github.com/Shanu171/Chat_with_PDF-s.git
 cd chat-with-pdfs
 
 Create a virtual environment:
